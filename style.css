@@ -365,7 +365,7 @@ hr{
 }
 .block1{
     animation: appear1 linear;
-    animation-timeline: view();
+    animation-timeline:view();
     animation-range: entry 0% cover 40%;
 }
 
